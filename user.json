@@ -5,15 +5,15 @@
       "create_date": "2023-05-04T16:04:23.613",
       "updated_at": "2023-05-04T16:04:23.613",
       "username": "giangcv461",
-      "role": "admin",
+      "role": "admin"
     },
     {
       "id": 21123,
       "create_date": "2023-05-04T16:04:23.613",
       "updated_at": "2023-05-04T16:04:23.613",
       "username": "admin",
-      "role": "admin",
-    },
+      "role": "admin"
+    }
   ],
   "page": 1,
   "limit": 5
