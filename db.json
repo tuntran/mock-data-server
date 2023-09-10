@@ -1,0 +1,56 @@
+{
+  "users": [
+   {
+  "data": [
+    {
+      "id": 231814,
+      "user_name": "giangcv46",
+      "full_name": null,
+      "email": "giang.cv46@gmail.com",
+      "phone": "",
+      "last_login": "2023-02-10T09:43:53.163",
+      "create_date": "2023-02-10T09:43:53.163",
+      "status": 1,
+      "type": "seller",
+      "aff_percent": 0,
+      "rate_vnd_usd": 23500,
+      "source": null,
+      "telegram_id": null,
+      "facebook": null,
+      "ip": null,
+      "support_id": 1010,
+      "cashback_percent": 0,
+      "key_sha1": null,
+      "total_order": 0
+    },
+    {
+      "id": 231944,
+      "user_name": "giangcv461",
+      "full_name": null,
+      "email": "giang.cv461@gmail.com",
+      "phone": "0967132078",
+      "last_login": "2023-05-04T16:04:23.613",
+      "create_date": "2023-05-04T16:03:01.333",
+      "status": 1,
+      "type": "seller",
+      "aff_percent": 0,
+      "rate_vnd_usd": 23500,
+      "source": null,
+      "telegram_id": null,
+      "facebook": null,
+      "ip": null,
+      "support_id": 1010,
+      "cashback_percent": 0,
+      "key_sha1": null,
+      "total_order": 0
+    }
+  ],
+  "page": 1,
+  "limit": 5
+}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
